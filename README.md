@@ -2,4 +2,4 @@ By Ben Heinrich and Joe Sangiolo
 
 Abstract:
 
-We are creating a speech recognition model using a large-scale corpus of read English speech. Our goal is to have our model translate speech to text as accurately as possible. We are using datasets from LibriSpeech and VoxCeleb.
+We are creating a keyword recognition model to recognize specific keywords and digits that we train the model on. This uses the Synthetic Spech Commands Dataset and the Free Spoken Digit Dataset from Kaggle.
